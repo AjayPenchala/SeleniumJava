@@ -9,6 +9,7 @@ public class Firstjavaprogram
 		byte b = 20;
 		System.out.println("hello world");
 		System.out.println("the sum is " + (a+b));
+		System.out.println(a+b);
 		/*System.out.println("test");
 		System.out.println("test");
 		System.out.println("test");*/
